@@ -6,4 +6,5 @@ The venv module provides support for creating lightweight “virtual environment
 `python3 -m venv /path/to/new/virtual/environment`
 
 ## Activate
-`source bin/activate`
+`source bin/activate`  
+To exit of the venv `deactivate`
